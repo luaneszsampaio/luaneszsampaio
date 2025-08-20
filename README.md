@@ -7,13 +7,19 @@ Sou a Luane, estudante de Análise e Desenvolvimento de Sistemas. Estou começan
 - 🔗 Aberta a colaborações em projetos simples e educativos.
 - 🔎 Procurando ajuda com: GitHub, boas práticas de programação e organização de estudos.
 
-##
+---
+
+## 📫 Contato
 
 <div>
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanestudy31@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luane-sampaio-611268376/)
-  
+
+  ---
+
+## 
+
 <table>
   <tr>
     <td valign="top">
